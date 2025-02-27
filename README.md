@@ -54,7 +54,7 @@ These are used to analyse some of the questionnaire items, by providing a table 
    included only a continent, rows 2-5 will be empty. But if only a city was mentioned, the column will contain rows 1-4 and only row 5 will be empty.
    geoHier - a 9x63 binary matrix. Rows 1-5 indicate whether the entity corresponds to one of the above positions in the hierarchy. Rows 7-9 correspond to the following 3 categories: (7) undefined territory; (8) historic entity (e.g. Babylonian empire); (9) unrealistic entity (e.g. fictional island)
 
-6. ** importData.mat**
+6. **importData.mat**
    Translates multiple choice answers about the impotrance of the novel into binary categories defined by us.
 
 7. **languagesUsed.mat**
