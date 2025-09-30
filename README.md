@@ -17,6 +17,12 @@ Further analysis of scaled items and generation of figures 1A-C.
 **fig2_modesOfAmbivalence.m**
 Futher analysis of ambivalent items and generation of figures 2A-C.
 
+**fig3a.m**
+Analyses whether the identity of the book/title affects the degree of ambivalence reported by readers.
+
+**fig3b.m**
+Analyses whether the reader identity affects the degree of ambivalence reported across all questionnaires of that reader.
+
 **Accessory code**
 
 1. **directPoissonBinomial.m**
@@ -59,4 +65,7 @@ These are used to analyse some of the questionnaire items, by providing a table 
 
 7. **languagesUsed.mat**
    Translates user free text answers into a code that can be analysed.
+
+8. **anonID.mat**
+   Contains the anonymised ID of the reader, encoded as a number.
  
